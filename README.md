@@ -87,7 +87,7 @@ see [http://bnsmb.de/solaris/execute_scripts.html](http://bnsmb.de/solaris/execu
 
 **execute_tasks.sh**
 
-**execute_tasks.sh** executes tasks defined in a include file
+**execute_tasks.sh** executes tasks defined in an include file
 
 Usage:
 ```
@@ -114,7 +114,13 @@ Current environment: ksh version: 93 | change function code supported: yes | tra
 [xtrnaw7@t15g ~]$ 
 ```
 
-see [http://bnsmb.de/linux/execute_tasks_usage_help.html](http://bnsmb.de/linux/execute_tasks_usage_help.html) for details
+see [http://bnsmb.de/linux/execute_tasks_usage_help.html](http://bnsmb.de/linux/execute_tasks_usage_help.html) for details for the script execute_task.sh
+
+
+see the include files with tasks to install and configure a ROM on an Android phone as example:
+
+[https://github.com/bnsmb/scripts-for-Android/blob/main/scripts/prepare_phone.include](https://github.com/bnsmb/scripts-for-Android/blob/main/scripts/prepare_phone.include)
+
 
 <hr>
 
